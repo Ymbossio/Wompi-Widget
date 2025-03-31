@@ -38,7 +38,7 @@ $productos = [
     ]
 ];
 
-$public_key = "pub_test_X0zDA9xoKdePzhd8a0x9HAez7HgGO2fH";
+$public_key = "pub_test_X0zDA9xoKdePzhd8a0x9HAez7HgGO2";
 $keyIntegrity = "test_integrity_KzswWuyaRXXAQYCKZnhjtceUPEeo0OP9";
 $currency = "USD";
 
