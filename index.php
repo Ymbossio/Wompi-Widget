@@ -38,8 +38,8 @@ $productos = [
     ]
 ];
 
-$public_key = "pub_test_X0zDA9xoKdePzhd8a0x9HAez7HgGO2";
-$keyIntegrity = "test_integrity_KzswWuyaRXXAQYCKZnhjtceUPEeo0OP9";
+$public_key = "pub_test";
+$keyIntegrity = "test_integrity";
 $currency = "USD";
 
 foreach ($productos as $producto) {
